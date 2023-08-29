@@ -1,2 +1,2 @@
 # Quote-Generator
-#Mad using HTML/CSS/JavaScript
+#Madeusing HTML/CSS/JavaScript
